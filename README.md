@@ -1,4 +1,5 @@
 - [X] create rough architecture of HSTU
-- [ ] finish relative attetion bias (rab^{p,t})
+- [X] finish position-based relative attetion bias (rab^{p})
+- [ ] finish position-based relative attetion bias (rab^{t})
 - [ ] create reco and ranking trainers
 - [ ] create datasets
